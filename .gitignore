@@ -1,0 +1,9 @@
+.deps/
+__pycache__/
+inputs/
+config.local.json
+previews/
+logs/
+*.xlsx
+*.xlsb
+*.zip
