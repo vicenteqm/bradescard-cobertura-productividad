@@ -1,8 +1,0 @@
-{
-  "base": "inputs/BASE DE TIENDAS BRADESCARD (1).xlsx",
-  "asistencia": "inputs/ASISTENCIA BRADESCARD_.xlsb",
-  "bi": "inputs/BI_BETTER.xlsx",
-  "txh": "inputs/Tramite por hora BETTER.xlsx",
-  "nrt": "inputs/TramitacionNRT_20261108_BETTER.xlsx",
-  "corte_asistencia": "2026-11-08"
-}
